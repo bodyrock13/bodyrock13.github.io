@@ -16,6 +16,8 @@ regenerate: true
 * [[newitems2]]
 * 한글
 * 한글2
+* [[korean]]{한글}
+* 
 
 ---
 
