@@ -13,6 +13,8 @@ regenerate: true
 
 ## new items
 * [[newitmes]]
+* [[newitems2]]
+
 ---
 
 ## blog posts
