@@ -1,16 +1,16 @@
 # Site settings
-title: 기계인간 John Grib
-url: "https://johngrib.github.io"
+title: BodyRock
+url: "https://bodyrock13.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    BodyRock의 Wiki
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: 
+author: BodyRock
+profile: 
+twitter_username: 
+github_username: bodyrock13
 comment-support: utterances
 
 # Build settings
@@ -38,10 +38,10 @@ collections:
 
 # Comment Service
 disqus:
-  id: johngrib
-  shortname: johngrib
+  id: bodyrock13
+  shortname: bodyrock13
 utterances:
-  repo: johngrib/johngrib.github.io
+  repo: bodyrock13/bodyrock13.github.io
   issue-term: pathname
   label: Comment
   branch: master
