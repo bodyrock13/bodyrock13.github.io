@@ -14,6 +14,7 @@ regenerate: true
 ## new items
 * [[newitmes]]
 * [[newitems2]]
+* 한글
 
 ---
 
