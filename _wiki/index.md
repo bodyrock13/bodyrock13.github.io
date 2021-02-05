@@ -18,7 +18,7 @@ regenerate: true
 * 한글2
 * [[korean]]{한글}
 * [[english]]{영어} 
-* [[the-book]]{창세기와 만나다}
+* [[the-book-of-genesis]]{창세기와 만나다}
 
 ---
 
