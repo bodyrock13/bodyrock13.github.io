@@ -17,7 +17,7 @@ regenerate: true
 * 한글
 * 한글2
 * [[korean]]{한글}
-* 
+* [[english]]{영어} 
 
 ---
 
