@@ -18,7 +18,8 @@ regenerate: true
 * 한글2
 * [[korean]]{한글}
 * [[english]]{영어} 
-* [[the-book]]
+* [[the-book]]{창세기와 만나다}
+
 ---
 
 ## blog posts
