@@ -11,13 +11,8 @@ regenerate: true
 
 * [[mathjax-latex]]
 
-## new items
-* [[newitmes]]
-* [[newitems2]]
-* 한글
-* 한글2
-* [[korean]]{한글}
-* [[english]]{영어} 
+## 도서
+
 * [[the-book-of-genesis]]{창세기와 만나다}
 
 ---
