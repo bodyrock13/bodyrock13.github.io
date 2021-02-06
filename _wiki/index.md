@@ -7,10 +7,6 @@ comment : false
 regenerate: true
 ---
 
-## wiki items
-
-* [[mathjax-latex]]
-
 ## 도서
 
 * [[the-book-of-genesis]]{창세기와 만나다}
