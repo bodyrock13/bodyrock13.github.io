@@ -10,7 +10,7 @@ regenerate: true
 ## 도서
 
 * [[the-book-of-genesis]]{창세기와 만나다}
-
+* [[art-of-thingking-clearly]]
 ---
 
 ## blog posts
