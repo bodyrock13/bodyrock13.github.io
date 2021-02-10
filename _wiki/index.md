@@ -11,7 +11,7 @@ regenerate: true
 
 * [[the-book-of-genesis]]{창세기와 만나다}
 * [[art-of-thingking-clearly]]{스마트한 생각들}
-* [[swing-wa-nai]]
+* [[swing-wa-nai]]{의미가 없다면 스윙은 없다}
 
 ---
 
