@@ -3,8 +3,8 @@ layout  : wiki
 title   : 의미가 없다면 스윙은 없다 
 summary : 
 date    : 2021-02-11 00:03:03 +0900
-updated : 2021-02-11 00:18:02 +0900
-tag     : 
+updated : 2021-02-11 10:44:22 +0900
+tag     : Murakami-Haruki 
 toc     : true
 public  : true
 parent  : 
